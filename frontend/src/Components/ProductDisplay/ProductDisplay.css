@@ -31,7 +31,7 @@
 
 .productdisplay-right h1 {
     color: #3d3d3d;
-    font-size: 40px;
+    font-size: 38px;
     font-weight: 700;
 }
 
@@ -53,16 +53,18 @@
 }
 
 .productdisplay-right-price-old {
+    margin-top: -30px;
     color: #818181;
     text-decoration: line-through;
 }
 
 .productdisplay-right-price-new {
+    margin-top: -30px;
     color: #ff4141;
 }
 
 .productdisplay-right-size h1 {
-    margin-top: 55px;
+    margin-top: 20px;
     color: #656565;
     font-size: 20px;
     font-weight: 600;
@@ -75,6 +77,7 @@
 }
 
 .productdisplay-right-sizes div {
+    margin-top: -20px;
     padding: 18px 24px;
     background: #fbfbfb;
     border: 1px solid #ebebeb;
